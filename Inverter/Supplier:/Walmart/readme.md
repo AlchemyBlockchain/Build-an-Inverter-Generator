@@ -1,5 +1,4 @@
-They had a 1000 Watt for $52
-1500 Watt for
+They had a 1000 & 1500 Watt
 
 index: https://www.walmart.com/search?q=inverter&typeahead=inverter&cat_id=91083
 
