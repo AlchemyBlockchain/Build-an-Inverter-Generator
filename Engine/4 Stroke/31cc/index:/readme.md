@@ -1,7 +1,9 @@
 # Model: 139F
-sch: https://www.ebay.com/sch/i.html?_nkw=139F+engine
-
+power: 0.8 Kw
 design: This is similar to the "Honda GX35" but slightly smaller displacement.
+
+## sch:
+https://www.ebay.com/sch/i.html?_nkw=139F+engine
 
 $110
 - https://www.ebay.com/itm/165951843697
