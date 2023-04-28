@@ -6,16 +6,16 @@
 # Conclusion:
 This design is NOT energy efficient enough for my needs!
 
-- Honda: 5.6 KwH/Gal
-- home build: 4.22 KwH/Gal
+- Honda: 5.6 kWh/Gal
+- home build: 4.22 kWh/Gal
 
 
-## Design Changes, Solution:
+## Future: Design Changes, Solution
 - I want to use a Permanent Magnet Axial Flux Generator
 - Step up Transformer to Reduce Transmission Losses
 - Charge Verter to convert AC to DC
 
-# Complete Buildout:
+## Complete Buildout:
 Amazon affiliate Links: 
 
 Thermal IR Camera, Android (used in video): https://amzn.to/3oOxHtE
@@ -102,3 +102,8 @@ Harbor Freight Links, Not Affiliated:
 Band Saw: https://www.harborfreight.com/power-t...
 
 Flux Core Welder: https://www.harborfreight.com/easy-fl...
+
+
+# ChargeVerter
+- [Recharging your battery bank without solar](https://youtu.be/QAoorfdbefo)
+- [Powerful and Affordable AC Battery Charger](https://youtu.be/DEpKq_Fg1rw)
