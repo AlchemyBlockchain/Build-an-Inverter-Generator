@@ -3,6 +3,12 @@
 - [The AlternatorGenerator, First Attempt. 48V Battery Charging](https://youtu.be/CL8W5hipaLM)
 - [From Gasoline to Electricity, Answering Your Questions, Part 2](https://youtu.be/cy0t4qq8mS0)
 
+## Conclusion:
+This design is NOT energy efficient enough for my needs!
+- I want to use a Permanent Magnet Axial Flux Generator
+- Step up Transformer to Reduce Transmission Losses
+- Charge Verter to convert AC to DC
+
 ## Complete Buildout:
 Amazon affiliate Links: 
 
