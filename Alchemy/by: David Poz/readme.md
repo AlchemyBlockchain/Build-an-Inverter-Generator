@@ -6,7 +6,7 @@
 # Conclusion:
 This design is NOT energy efficient enough for my needs!
 
-- Honda EU7000 & ChargeVerter: 5.6 kWh/Gal
+- Honda EU7000 & ChargeVerter: 5.8 kWh/Gal
 - home build: 4.22 kWh/Gal
 
 
