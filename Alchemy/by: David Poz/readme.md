@@ -1,5 +1,6 @@
 # Videos:
-[From Gasoline to Electricity, Answering Your Questions, Part 2](https://youtu.be/cy0t4qq8mS0)
+- [The AlternatorGenerator, First Attempt. 48V Battery Charging](https://youtu.be/CL8W5hipaLM)
+- [From Gasoline to Electricity, Answering Your Questions, Part 2](https://youtu.be/cy0t4qq8mS0)
 
 ## Complete Buildout:
 Amazon affiliate Links: 
