@@ -2,6 +2,7 @@
 - [Not what I expected.](https://youtu.be/kQTFPMDE_F4)
 - [The AlternatorGenerator, First Attempt. 48V Battery Charging](https://youtu.be/CL8W5hipaLM)
 - [From Gasoline to Electricity, Answering Your Questions, Part 2](https://youtu.be/cy0t4qq8mS0)
+- [More Efficient than ever! Alternator Generator fine tuning, Part 3](https://youtu.be/yQTCVyxdauo)
 
 # Conclusion:
 This design is NOT energy efficient enough for my needs!
